@@ -9,4 +9,4 @@ fields:
   name: date
   label: date
 pages:
-- content/en/posts/wolfgang-amadeus-mozart/wolfgang-amadeus-mozart.md
+- content/en/posts/wolfgang-amadeus-mozart/index.md
