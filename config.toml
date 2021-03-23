@@ -1,0 +1,31 @@
+baseurl = "https://abraham-ee.web.app/"
+title = "console-demo"
+theme = "hugo-theme-console"
+languageCode = "en-us"
+
+[params]
+  # Cutting off the page title to two chars for mobile (console-demo -> co)
+  # titleCutting = true
+
+  # Set the animation style -- https://animate.style/
+  # To disable animations, please remove or comment animationStyle parameter
+  # animateStyle = "animated zoomIn fast" 
+
+  [[params.navlinks]]
+  name = "about/"
+  url = "en/about/"
+
+  [[params.navlinks]]
+  name = "posts/"
+  url = "en/posts/"
+  
+  [[params.navlinks]]
+  name = "photos/"
+  url = "en/photos/"
+
+
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
