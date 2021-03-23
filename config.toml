@@ -1,4 +1,4 @@
-baseurl = "https://abraham-ee.web.app/"
+baseurl = ""
 title = "console-demo"
 theme = "hugo-theme-console"
 languageCode = "en-us"
