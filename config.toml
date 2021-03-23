@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://infallible-yalow-e93112.netlify.app/"
 title = "console-demo"
 theme = "hugo-theme-console"
 languageCode = "en-us"
