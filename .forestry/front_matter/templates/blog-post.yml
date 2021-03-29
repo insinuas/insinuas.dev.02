@@ -9,5 +9,5 @@ fields:
   name: date
   label: date
 pages:
-- content/en/posts/christoph-graupner/christoph-graupner.md
+- content/en/posts/christoph-graupner/index.md
 - content/en/posts/wolfgang-amadeus-mozart/index.md
