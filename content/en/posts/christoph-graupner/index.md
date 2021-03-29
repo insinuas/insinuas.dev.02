@@ -1,6 +1,5 @@
 +++
 date = 2021-03-28T22:00:00Z
-draft = true
 title = "Christoph Graupner"
 
 +++
